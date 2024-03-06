@@ -8,7 +8,6 @@
 - 👯 Seeking stimulating web development collaborations.
 - 🤝 Need frontend development expertise expansion.
 - 💬 Always open for discussions and learning.
-- 📫 Write me a message
-- 😄 Pronouns: he/him
+- 📫 Contact me in my (LinkedIn)[https://www.linkedin.com/in/davide-grassitelli-web-dev/] 
 - ⚡ Fueled by passion and espresso for challenges!
 
