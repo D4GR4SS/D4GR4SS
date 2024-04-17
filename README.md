@@ -1,5 +1,5 @@
 ### Hey there! 👋
-I'm Davide Grassitelli, a self-employed web developer on a journey of growth and learning. Here's a bit about me:
+I'm Davide Grassitelli, a web developer on a journey of growth and learning. Here's a bit about me:
 
 
 
